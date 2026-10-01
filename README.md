@@ -35,4 +35,4 @@ I work across **data, machine learning, and data analytics** — building practi
 
 **Data → Machine Learning → Data Science → Intelligent Solutions**
 
-[GitHub](https://github.com/devaravenu) · [LinkedIn](https://www.linkedin.com/) · [Projects](https://github.com/your-username?tab=repositories)
+[GitHub](https://github.com/devaravenu) · [LinkedIn](https://www.linkedin.com/in/devara-venu) · [Projects](https://github.com/devaravenutab=repositories)
