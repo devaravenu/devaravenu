@@ -1,4 +1,4 @@
-<div align="center"> <img src="./keerty-mark.svg" width="120" alt="Profile logo" /> <h1>Hi, I'm Devara Venu 👋</h1> <h3>Aspiring Data Scientist | Machine Learning | Data Analytics</h3> <p>Turning data into insights and building intelligent solutions.</p> <img src="https://img.shields.io/badge/Python-Learning-blue?logo=python" /> <img src="https://img.shields.io/badge/SQL-Learning-orange?logo=mysql" /> <img src="https://img.shields.io/badge/Machine_Learning-Exploring-purple" /> </div># DEVARA VENU
+ <h1>Hi, I'm Devara Venu 👋</h1> <h3>Aspiring Data Scientist | Machine Learning | Data Analytics</h3> <p>Turning data into insights and building intelligent solutions.</p> <img src="https://img.shields.io/badge/Python-Learning-blue?logo=python" /> <img src="https://img.shields.io/badge/SQL-Learning-orange?logo=mysql" /> <img src="https://img.shields.io/badge/Machine_Learning-Exploring-purple" /> </div># DEVARA VENU
 
 ### Data Scientist
 
