@@ -1,4 +1,21 @@
- <h1>Hi, I'm Devara Venu 👋</h1> <h3>Aspiring Data Scientist | Machine Learning | Data Analytics</h3> <p>Turning data into insights and building intelligent solutions.</p> <img src="https://img.shields.io/badge/Python-Learning-blue?logo=python" /> <img src="https://img.shields.io/badge/SQL-Learning-orange?logo=mysql" /> <img src="https://img.shields.io/badge/Machine_Learning-Exploring-purple" /> </div># DEVARA VENU
+<div align="center">
+
+  <h1>Hi, I'm Devara Venu 👋</h1>
+  <h3>Aspiring Data Scientist | Machine Learning | Data Analytics</h3>
+
+  <p>Turning data into insights and building intelligent solutions.</p>
+
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-purple?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-yellow?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-blue?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-8e2de2?logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-ff69b4?logo=plotly&logoColor=white" />
+</div>
+
+
 
 ### Data Scientist
 
